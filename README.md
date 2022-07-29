@@ -53,7 +53,7 @@ Phone: +92-305-4241224
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzeejah&hide_border=true&layout=compact" align="center" /></div>
 
