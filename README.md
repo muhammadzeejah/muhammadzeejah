@@ -7,7 +7,7 @@
 
 
 ### Glad to see you here!  
-A passionate self-taught front-end web developer and a freelance software engineer from Pakistan 🇵🇰. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces🙌. I enjoy my work because of the satisfaction it gives when solving a problem. My greatest passion in life is using my technical know-how to benefit other people.😇  
+As a front-end developer, I specialize in creating engaging and user-friendly web applications that meet client's needs and expectations. With expertise in React JS, NUXT JS, Vue Js, and Vanilla JavaScript. I also have proficiency in back-end technologies like ExpressJS, and MongoDB. I am well-equipped to handle any web development project. Currently pursuing a Bachelor's degree in Computer Sciences at the University of Punjab, Gujranwala Campus, and an active member of the Google Development Student Society (GDSC), I am committed to staying on the cutting edge of new technologies and trends in the industry. As a freelance web developer, I take pride in providing effective troubleshooting and remediation for web applications, planning, developing, testing, and maintaining websites to ensure they operate smoothly and meet clients' needs. With a passion for reading and history, I believe that broadening my perspective helps me stay grounded in my work and make significant contributions to any project I work on. 😇 
   
 
 Gmail: [muhammadzeejah1122@gmail.com](mailto:muhammadzeejah1122@gmail.com)
