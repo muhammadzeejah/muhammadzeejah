@@ -47,14 +47,5 @@ Email address: [muhammadzeejah1122@gmail.com](mailto:muhammadzeejah1122@gmail.co
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="100%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzeejah&hide_border=true&layout=compact" align="center" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
   
 ----
